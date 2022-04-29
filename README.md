@@ -7,7 +7,7 @@ A new Flutter project.
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 <a name="back-to-top">
 <p align="center">
-  <img height="80px" src=""/>
+  <img height="80px" src="assets/images/biotelas.png"/>
 </p>
 ### IMPORTANT:
 
