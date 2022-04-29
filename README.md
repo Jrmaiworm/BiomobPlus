@@ -2,13 +2,14 @@
 
 A new Flutter project.
 
+<a name="back-to-top">
+<p align="center">
+  <img height="200px" src="assets/images/biotelas.png"/>
+</p>
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
-<a name="back-to-top">
-<p align="center">
-  <img height="80px" src="assets/images/biotelas.png"/>
-</p>
+
 ### IMPORTANT:
 
 For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
