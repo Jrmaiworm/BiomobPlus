@@ -4,7 +4,7 @@ A new Flutter project.
 
 <a name="back-to-top">
 <p align="center">
-  <img height="200px" src="assets/images/biotelas.png"/>
+  <img height="400px" src="assets/images/biotelas.png"/>
 </p>
 ## Getting Started
 
